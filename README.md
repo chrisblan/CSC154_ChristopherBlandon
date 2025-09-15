@@ -9,4 +9,3 @@
 
 HELLO BRANCH2
 
->>>>>>> Stashed changes
